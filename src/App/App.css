@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto 50px;
+}
+
+.formField {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 5px;
+}
+
+.row {
+  display: flex;
+}
+
+.field {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  margin: 1px;
+}
+
